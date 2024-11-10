@@ -1,6 +1,7 @@
 from math import log, e
 from random import randint
 import numpy
+print("a")
 
 """
 (Dosage * n) + bias -> (Dosage * -34.4) + 2.14 = X-axis Coordinate
